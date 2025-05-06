@@ -10,17 +10,13 @@ This repository presents an in-depth analysis of data science job roles, focusin
 🎯 **Project Objectives**
 
 •	**Analyze** the distribution of data science roles across different organization types, Sector and States.
-
 •	**Examine** salary ranges (minimum and maximum) for each role type within these organizations.
-
 •	**Visualize** key metrics to identify trends and patterns in the data science job market.
 
 🛠️ **Tools and Techniques**
 
 •	**Microsoft Excel:** Utilized for data analysis, and visualization.
-
 •	**Pivot Tables:** For summarizing data and deriving insights.
-
 •	**Power Query Editor:** Used for efficient data cleaning, transformation, and loading processes.
 
 
