@@ -1,0 +1,1 @@
+This repository presents an in-depth analysis of data science job roles, focusing on various aspects such as salary ranges, role distributions, and organizational ownership types. Utilizing Microsoft Excel's robust features, this project aims to provide clear visualizations
