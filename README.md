@@ -8,16 +8,16 @@ This repository presents an in-depth analysis of data science job roles, focusin
 3.	Data Cleaning, Pivot and Visualisation.xlsx – Final Data
 
 🎯 **Project Objectives**
-
-•	**Analyze** the distribution of data science roles across different organization types, Sector and States.
-•	**Examine** salary ranges (minimum and maximum) for each role type within these organizations.
-•	**Visualize** key metrics to identify trends and patterns in the data science job market.
+1.	**Analyze** the distribution of data science roles across different organization types, Sector and States.
+2.	**Examine** salary ranges (minimum and maximum) for each role type within these organizations.
+3.	**Visualize** key metrics to identify trends and patterns in the data science job market.
 
 🛠️ **Tools and Techniques**
 
-•	**Microsoft Excel:** Utilized for data analysis, and visualization.
-•	**Pivot Tables:** For summarizing data and deriving insights.
-•	**Power Query Editor:** Used for efficient data cleaning, transformation, and loading processes.
+1.	**Microsoft Excel:** Utilized for data analysis, and visualization.
+2.	**Pivot Tables:** For summarizing data and deriving insights.
+3.	**Power Query Editor:** Used for efficient data cleaning, transformation, and loading processes.
+
 
 
 
